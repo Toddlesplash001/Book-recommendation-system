@@ -1,4 +1,4 @@
-# Book Recommender System
+# BookBuddy
 
 ## Project Overview
 
