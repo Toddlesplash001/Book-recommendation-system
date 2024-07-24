@@ -24,7 +24,7 @@ The Book Recommender System is a Python-based application designed to suggest bo
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Toddlesplash001/Book-recommendation-system.git
    cd book-recommender
 2. **Install Dependencies**
 
