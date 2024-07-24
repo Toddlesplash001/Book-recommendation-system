@@ -68,9 +68,8 @@ The system will display a list of books similar to the entered book title.
 ## Code Explanation
 
 book-recommender.py: The main Python script that implements the recommendation algorithm using cosine similarity and sets up the Flask web server.
+
 index.html: The HTML template for the web interface.
-style.css: CSS file for styling the web interface.
-Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
