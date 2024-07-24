@@ -11,26 +11,6 @@ The Book Recommender System is a Python-based application designed to suggest bo
 - **Recommendation Engine**: Uses cosine similarity to recommend similar books.
 - **Web Interface**: A Flask-based web interface allows users to input a book title and receive recommendations.
 
-## Project Structure
-
-book-recommender/
-│
-├── book-recommender.py # Python script for the recommendation system
-├── requirements.txt # List of Python dependencies
-├── static/
-│ ├── style.css # CSS styles for the web interface
-│
-├── templates/
-│ ├── index.html # HTML template for the web interface
-│
-└── data/
-├── Users.csv # User data CSV
-├── Books.csv # Book data CSV
-├── Ratings.csv # Ratings data CSV
-
-markdown
-Copy code
-
 ## Requirements
 
 - Python 3.7+
